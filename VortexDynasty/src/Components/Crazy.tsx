@@ -1,4 +1,4 @@
-import React from "react";
+
 import crazy from "../assets/crazy.jpg";
 import crazy2 from "../assets/crazy2.jpg";
 

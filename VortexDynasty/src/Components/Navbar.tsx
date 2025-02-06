@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import logo from "../assets/wew-removebg-preview.png";
 import {  FaBars, FaTimes } from "react-icons/fa";
 import { FaLocationPin } from 'react-icons/fa6';

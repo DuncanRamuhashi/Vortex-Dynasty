@@ -1,4 +1,4 @@
-import React from "react";
+
 import Navbar from "./Navbar";
 import background from "../assets/pexels-pixabay-274192.jpg";
 import { GiVortex } from "react-icons/gi";
