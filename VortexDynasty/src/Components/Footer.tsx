@@ -23,7 +23,7 @@ const Footer = () => {
             <h3 className="text-xl font-semibold text-blue-400">Contact Us</h3>
             <p className="text-gray-400">📍 Johannesburg, South Africa</p>
             <p className="text-gray-400">📧 vortexdynasty@email.com</p>
-            <p className="text-gray-400">📞 +27 123 456 7890</p>
+            <p className="text-gray-400">📞 +27 654767575</p>
           </div>
 
           {/* Social Media Links */}
